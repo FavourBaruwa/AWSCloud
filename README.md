@@ -1,6 +1,6 @@
 # Favour-Infrastructure-AWS-WebApplication
 This project focuses on offering a step-by-step process for building a fault-tolerant Web application architecture on AWS using CloudFormation and the AWS CLI. The scripts are split into two sections: one for establishing the network infrastructure and the other for creating a computing resources.
-The Compute cloudFormation template deploys a load balancer and its dependencies needed to host the Jule-web application. The compute template includes security groups, an autoscaling group with its required launch configuration, target groups, and an IAM role for the compute instances.
+The Compute cloudFormation template deploys a load balancer and its dependencies needed to host the Favour-web application. The compute template includes security groups, an autoscaling group with its required launch configuration, target groups, and an IAM role for the compute instances.
 
 ## Prerequisites
 - AWS Account 
